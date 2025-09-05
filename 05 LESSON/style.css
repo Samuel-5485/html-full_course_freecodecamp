@@ -1,0 +1,51 @@
+/*Typography is the way that text is arranged and presented*/
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+body{
+    padding: 10%;
+    font-size: 2rem;
+}
+
+body{
+    padding:10%;
+    font-size: 2rem;
+    /* font-family: monospace;
+    font-family: cursive; 
+    font-family: fantasy;
+    font-family: 'Courier New', Courier, monospace;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'Times New Roman', Times, serif';*/
+    font-family: "Roboto", sans-serif;
+    /* for more font style you can get from google font */
+    
+
+}
+/*input, button{
+    font: inherit;
+} */
+
+p{
+    /* text-decoration: none;
+    text-transform: lowercase;
+    text-transform: uppercase;
+    text-align: left;
+    text-align: justify;
+    text-align: right;
+    text-indent: 5em; */
+
+    line-height: 1.2;
+    font-weight: lighter;
+    font-style:  italic;
+    font-style:  oblique;
+    font-style:  normal;   
+    /*letter-spacing: 0.5; 
+    word-spacing: 0.1em;  */
+    
+
+}
+
+
+
+
+
